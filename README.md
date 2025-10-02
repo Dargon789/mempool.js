@@ -1,7 +1,7 @@
 # Mempool JS API
 
 [![npm version](https://img.shields.io/npm/v/@mempool/mempool.js.svg?style=flat-square)](https://www.npmjs.org/package/@mempool/mempool.js)
-[![CircleCI](https://dl.circleci.com/status-badge/img/gh/Dargon789/mempool.js/tree/master.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/Dargon789/mempool.js/tree/master)
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/mempool/mempool.js/tree/master.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/mempool/mempool.js/tree/master)
 [![Known Vulnerabilities](https://snyk.io/test/github/mempool/mempool.js/badge.svg?style=flat-square)](https://snyk.io/test/github/mempool/mempool.js)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 
