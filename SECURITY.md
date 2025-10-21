@@ -14,8 +14,7 @@ currently being supported with security updates.
 
 ## Reporting a Vulnerability
 
-Use this section to tell people how to report a vulnerability.
-
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+We take security issues seriously. If you believe you have found a security
+vulnerability, please report it to us through private vulnerability reporting
+on GitHub. You can do this by going to the 'Security' tab of our repository.
+We will make every effort to respond to your report as soon as possible.
